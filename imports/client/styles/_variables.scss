@@ -1,0 +1,38 @@
+// Colors
+$grey: #dddddd;
+$grey-light: #f9f9f9;
+$grey-darker: #777777;
+$brand-primary: #5b4681;
+
+// Spaces + Sizing
+$space: 1.4rem;
+$padding: 1rem;
+$site-max-width: 50rem;
+
+// Font Sizes
+$base-font-size: 1.4rem;
+$large-font-size: 1.8rem;
+
+// Form inputs
+$input-border: $grey;
+
+//Boxed View
+$boxed-view-overlay-bg: $grey;
+$boxed-view-bg: white;
+
+//button
+$button-bg: $brand-primary;
+$button-txt-color: white;
+$button-pill-color: $brand-primary;
+$button-cancel-bg: $grey-light;
+$button-cancel-txt-color: $grey-darker;
+$button-cancel-border-color: $grey;
+
+//title bar
+$title-bar-bg: $brand-primary;
+$title-bar-color: white;
+
+//items
+$item-bg: $grey-light;
+$item-border-color: darken($item-bg, 8%);
+$item-txt-color: $grey-darker;
